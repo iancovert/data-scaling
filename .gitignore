@@ -1,0 +1,12 @@
+*.egg-info
+.ipynb_checkpoints
+__pycache__/
+experiments/old
+experiments/figures
+experiments/data_files
+experiments/model_results
+experiments/script_outputs
+experiments/lightning_logs
+*.sh
+*.out
+*.pdf
